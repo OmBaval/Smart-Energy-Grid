@@ -50,7 +50,7 @@ The system consists of several interconnected components:
 
 The architecture is modular and scalable, enabling easy integration with smart meters and sensors. It uses **NodeMCU ESP32** for data collection and transmission.
 
-![System Architecture](https://github.com/OmBaval/Smart-Energy-Grid/blob/main/images/system_architecture.png)
+![System Architecture](https://github.com/OmBaval/Smart-Energy-Grid/blob/main/images/system_architecture.jpg)
 
 ### Hardware Components
 
