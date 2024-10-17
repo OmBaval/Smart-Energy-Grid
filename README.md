@@ -1,7 +1,7 @@
 
 # Smart Energy Grid
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### A smart energy management and electricity theft detection system using Machine Learning and Big Data.
 
