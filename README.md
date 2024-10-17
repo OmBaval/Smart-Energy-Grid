@@ -58,8 +58,6 @@ The architecture is modular and scalable, enabling easy integration with smart m
 - **ZMTP101B AC Voltage Sensor**: Measures voltage in real-time.
 - **ACS712 Current Sensor**: Measures current flow and monitors power consumption.
 
-![NodeMCU ESP32](https://github.com/OmBaval/Smart-Energy-Grid/images/nodemcu_esp32.png)
-
 ## Technologies Used
 
 - **Machine Learning**: Isolation Forest for anomaly detection.
