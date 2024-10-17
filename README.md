@@ -27,7 +27,7 @@ This Smart Energy Grid project addresses energy distribution and theft detection
 
 The system helps optimize energy distribution, improve grid reliability, and reduce losses by analyzing historical and real-time data.
 
-![Smart Meter Setup](https://github.com/OmBaval/Smart-Energy-Grid/blob/main/images/smart_meter_setup.png)
+![Smart Meter Setup](https://github.com/OmBaval/Smart-Energy-Grid/images/smart_meter_setup.jpg)
 
 ## Features
 
@@ -36,7 +36,7 @@ The system helps optimize energy distribution, improve grid reliability, and red
 - **Predictive Analytics**: Forecasts energy demand and optimizes distribution.
 - **Visualization Dashboards**: Real-time energy insights using PowerBI.
 
-![PowerBI Dashboard](https://github.com/OmBaval/Smart-Energy-Grid/blob/main/images/dashboard.png)
+![PowerBI Dashboard](https://github.com/OmBaval/Smart-Energy-Grid/images/dashboard.png)
 
 ## System Design
 
@@ -50,7 +50,7 @@ The system consists of several interconnected components:
 
 The architecture is modular and scalable, enabling easy integration with smart meters and sensors. It uses **NodeMCU ESP32** for data collection and transmission.
 
-![System Architecture](https://github.com/OmBaval/Smart-Energy-Grid/blob/main/images/system_architecture.png)
+![System Architecture](https://github.com/OmBaval/Smart-Energy-Grid/images/system_architecture.png)
 
 ### Hardware Components
 
@@ -58,9 +58,7 @@ The architecture is modular and scalable, enabling easy integration with smart m
 - **ZMTP101B AC Voltage Sensor**: Measures voltage in real-time.
 - **ACS712 Current Sensor**: Measures current flow and monitors power consumption.
 
-![NodeMCU ESP32](https://github.com/OmBaval/Smart-Energy-Grid/blob/main/images/nodemcu_esp32.png)
-
-![Voltage Sensor](https://github.com/OmBaval/Smart-Energy-Grid/blob/main/images/zmtp101b.png)
+![NodeMCU ESP32](https://github.com/OmBaval/Smart-Energy-Grid/images/nodemcu_esp32.png)
 
 ## Technologies Used
 
