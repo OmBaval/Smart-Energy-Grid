@@ -71,11 +71,11 @@ The architecture is modular and scalable, enabling easy integration with smart m
 ```plaintext
 Smart-Energy-Grid/
 │
-├── data/               # Data files and logs
-├── models/             # Trained machine learning models
-├── scripts/            # Python scripts for data processing and ML
-├── images/             # Images used in README and documentation
-├── dashboards/         # PowerBI dashboard files
+├── Data/               # Data files and logs
+├── Hardware/           # C++ sripts for Arduino IDE
+├── Scripts/            # Python scripts for data processing and ML
+├── Images/             # Images used in README and documentation
+├── Dashboards/         # PowerBI dashboard files
 ├── README.md           # This file
 └── LICENSE             # License file
 ```
@@ -115,7 +115,7 @@ Smart-Energy-Grid/
 
 2. **Run Machine Learning Model**:
    ```bash
-   python scripts/detect_anomalies.py
+   scripts/Smart Grid Data Transformation and Modelling (1).ipynb
    ```
 
 3. **View Dashboard**:
