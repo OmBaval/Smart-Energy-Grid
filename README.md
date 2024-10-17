@@ -27,7 +27,7 @@ This Smart Energy Grid project addresses energy distribution and theft detection
 
 The system helps optimize energy distribution, improve grid reliability, and reduce losses by analyzing historical and real-time data.
 
-![Smart Meter Setup](https://github.com/OmBaval/Smart-Energy-Grid/images/smart_meter_setup.jpg)
+![Smart Meter Setup](https://github.com/OmBaval/Smart-Energy-Grid/blob/main/images/smart_meter_setup.jpg)
 
 ## Features
 
