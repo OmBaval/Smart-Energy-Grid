@@ -36,7 +36,7 @@ The system helps optimize energy distribution, improve grid reliability, and red
 - **Predictive Analytics**: Forecasts energy demand and optimizes distribution.
 - **Visualization Dashboards**: Real-time energy insights using PowerBI.
 
-![PowerBI Dashboard](https://github.com/OmBaval/Smart-Energy-Grid/images/dashboard.png)
+![PowerBI Dashboard](https://github.com/OmBaval/Smart-Energy-Grid/blob/main/images/Dashboard.png)
 
 ## System Design
 
